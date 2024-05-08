@@ -38,4 +38,4 @@
 <h3 align="left">📈 Github Stats:</h3>
 
 <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=Process-ing&show_icons=true&locale=en&theme=github_dark&hide_border=true" />
-<img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=process-ing&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" />
+<img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=process-ing&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&exclude_repo=forest-gleam" />
