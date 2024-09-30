@@ -4,6 +4,8 @@
 
 🔭 I’m currently working on projects for my major, projects with other people and other random personal projects
 
+💻 I have a profound love for mathematics, computer science and software development
+
 ⚡ Always wanting to learn new things, it's never late to learn something new 🌱
 
 <h3 align="left">🧰 Languages and Tools:</h3>
