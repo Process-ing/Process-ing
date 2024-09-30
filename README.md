@@ -6,7 +6,7 @@
 
 ⚡ Always wanting to learn new things, it's never late to learn something new 🌱
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
 ![OS - Arch Linux](https://img.shields.io/badge/OS%3A-Arch_Linux-2196F3?logo=arch-linux&logoColor=ffffff)
 ![Code - Bash](https://img.shields.io/badge/Code%3A-Bash-2196F3?logo=gnu-bash&logoColor=ffffff)
