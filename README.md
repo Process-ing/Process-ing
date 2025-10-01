@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Bruno Oliveira</h2>
 
-📚 I’m currently a 3rd year student of the Bachelor's Degree in Informatics and Computing Engineering, at @FEUP (see my work [here](https://github.com/Process-ing/leic))
+📚 I’m currently a 1st year student of the Master's Degree in Informatics and Computing Engineering, at @FEUP (see my work [here](https://github.com/Process-ing/leic))
 
 🔭 I’m currently working on projects for my major, projects with other people and other random personal projects
 
